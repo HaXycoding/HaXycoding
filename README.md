@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaXycoding
+- 👋 Hi, I’m @HaXy
 - 👀 I’m interested in Ux design and some Front coding
 - 🌱 I’m currently learning vuestore front
 - 💞️ I’m looking to collaborate on Ux
